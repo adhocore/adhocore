@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&layout=compact)
 
 <!--
 **adhocore/adhocore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
