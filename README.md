@@ -2,6 +2,11 @@
 
 ![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore)
+
+---
+If you love OpenSource, understand the value of it and appreciate the idea of how developers provide & maintain free & open source softwares, tools & 
+libraries that take massive time & effort, please consider [supporting](https://github.com/sponsors/adhocore) me either regularly or one-time, thank you. ☺️
 
 <!--
 **adhocore/adhocore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
