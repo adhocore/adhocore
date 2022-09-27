@@ -5,8 +5,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore)
 
 ---
-If you love OpenSource, understand the value of it and appreciate the idea of how developers provide & maintain free & open source softwares, tools & 
-libraries that take massive time & effort, please consider [supporting](https://github.com/sponsors/adhocore) me either regularly or one-time, thank you. ☺️
+If you love OpenSource, understand the value of it and appreciate the idea of how developers provide & maintain free & open source softwares,
+tools & libraries that take significant effort, please consider [supporting](https://github.com/sponsors/adhocore) me, thank you. ☺️
 
 <!--
 **adhocore/adhocore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
