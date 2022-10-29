@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore)
+![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide=contribs)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore&theme=transparent)
 
 🔖 View the badges I unlocked in [GitHub](https://github.com/adhocore?tab=achievements) and [holopin](https://www.holopin.io/@adhocore).
 
