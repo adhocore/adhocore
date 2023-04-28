@@ -4,7 +4,7 @@
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore&theme=transparent)
 
-🔖 View the badges I unlocked in [GitHub](https://github.com/adhocore?tab=achievements) and [holopin](https://www.holopin.io/@adhocore).
+🔖 View the badges I unlocked in [GitHub](https://github.com/adhocore?tab=achievements) and [holopin](https://www.holopin.io/@adhocore#badges).
 
 ---
 If you love OpenSource, understand the value of it and appreciate the idea of how developers provide & maintain free & open source softwares,
