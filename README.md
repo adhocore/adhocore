@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&theme=transparent)
+
+[Stat ranks](https://github.com/anuraghazra/github-readme-stats#github-stats-card): **S+**: _top 1%_ | **S**: _top 25%_ | **A++**: _top 45%_ | **A+**: _top 60%_ | **B+**: _everyone_
+
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&theme=transparent&layout=compact&langs_count=7)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore&theme=transparent)
 
 🔖 View the badges I unlocked in [GitHub](https://github.com/adhocore?tab=achievements) and [holopin](https://www.holopin.io/@adhocore#badges).
