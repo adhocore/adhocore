@@ -2,7 +2,7 @@
 
 ![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&theme=transparent&cache_seconds=86400)
 
-[Stat ranks](https://github.com/anuraghazra/github-readme-stats#github-stats-card): **S+**: _top 1%_ | **S**: _top 25%_ | **A++**: _top 45%_ | **A+**: _top 60%_ | **B+**: _everyone_
+[Stats ranks](https://github.com/anuraghazra/github-readme-stats#github-stats-card): **S** (top 1%), **A+** (12.5%), **A** (25%), **A-** (37.5%), **B+** (50%)
 
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=adhocore&theme=transparent&layout=compact&langs_count=7)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhocore&theme=transparent)
