@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&theme=transparent&cache_seconds=86400&v=1)
+![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=adhocore&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&theme=transparent&cache_seconds=86400&v=0)
 
 [Stats ranks](https://github.com/anuraghazra/github-readme-stats#github-stats-card): **S** (top 1%), **A+** (12.5%), **A** (25%), **A-** (37.5%), **B+** (50%)
 
